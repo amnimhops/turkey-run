@@ -1,0 +1,2 @@
+#!/bin/bash
+java -Djava.library.path=lib/ -cp lib/controlP5.jar:lib/core.jar:lib/gluegen-rt.jar:lib/gluegen-rt-natives-linux-amd64.jar:lib/jl1.0.1.jar:lib/jogl-all.jar:lib/jogl-all-natives-linux-amd64.jar:lib/jsminim.jar:lib/Main.jar:lib/minim.jar:lib/mp3spi1.9.5.jar:lib/tritonus_aos.jar:lib/tritonus_share.jar Main
