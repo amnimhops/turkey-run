@@ -3,6 +3,12 @@ A small game made in Processing, help the turkey to save his life!
 
 This project was done as an exercise for the Digital Content Integration subject, part of the UOC Multimedia degree.
 
+## Launch
+Just open the Main/Main.pde in processing and have fun.
+
+## Binaries
+Along with the source code, I have supplied the binaries for both Linux and Windows platforms, you will find them in `application.linux64/`  and `application.windows64/` respectively.
+
 ## Licenses
 * L-Sync. "Jingle Beeps", CC-BY. Downloaded from https://soundcloud.com/l-sync/jingle-bleeps
 
